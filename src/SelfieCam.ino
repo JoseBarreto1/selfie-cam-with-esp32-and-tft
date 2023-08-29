@@ -15,6 +15,8 @@ AsyncWebSocket ws("/ws");
 
 const char* ssid = "Barreto";
 const char* password = "2020unicornio";
+// const char* ssid = "Biografia365";
+// const char* password = "conecta365";
 
 String filelist;
 camera_fb_t * fb = NULL;
